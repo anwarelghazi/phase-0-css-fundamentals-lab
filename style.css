@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+  
+
+}
+img{
+ 
+}
+/* {
+  text-align: center;
+} */
+
+#featured-property{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.blue {
+  text-align: center;
+  width: 900px;
+}
+#details{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: red;
+}
+#about{
+padding-left: 150px;
+}
+.navigationBar a{
+  width: 100px;
+  background: rgb(187, 188, 190);
+  padding: 5px;
+  
+}
